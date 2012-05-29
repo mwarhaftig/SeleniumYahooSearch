@@ -8,3 +8,4 @@ javac -classpath selenium-server-standalone-2.21.0.jar src/SeleniumYahooSearch.j
 
 To run:
 java -classpath selenium-server-standalone-2.21.0.jar:. SeleniumYahooSearch
+
